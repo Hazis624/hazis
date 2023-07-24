@@ -1,0 +1,21 @@
+h1 {
+   background: red;
+   }
+.par1 {
+   background: blue;
+   font-size: 32pt;
+   color: green;
+   }
+.par2{border: 10px solid yellow;
+      border-radius: 5px;
+      font-size: 24pt;
+      margin-bottom:60px;
+      padding-bottom: 60px;
+      padding-left: 20 px;}
+.par3{font-weight:bold;
+      font-size:22px;
+      font-family:Courier New;}
+.dz{font-size: 24px;
+    text-align:center;
+    font-style: oblique;
+    text-shadow: 1px 1px 2px green;}
