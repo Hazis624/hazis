@@ -1,8 +1,5 @@
 def palindrom(word):
     palindrom_word = word[::-1]
-    if word == palindrom_word:
-        print(True)
-    else:
-        print(False)
-palindrom('лепсспел')
-palindrom('helloworld')
+    return word == palindrom_word
+print(palindrom('лепсспел'))
+print(palindrom('helloworld'))
